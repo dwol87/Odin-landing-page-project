@@ -1,0 +1,28 @@
+.container-1 {
+    background: #1F2937;
+    display: flex;
+}
+
+h4, a{
+    color: white;
+}
+
+h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+}
+
+.btn-1 {
+    background: #3882F6;
+    color: #F9FAF8;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+}
